@@ -1,1 +1,1 @@
-﻿# Relgio-imagens
+﻿# Relógio-imagens
